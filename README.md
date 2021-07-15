@@ -14,7 +14,6 @@ Password Generator is a challenge build mostly with JavaScript. Functions for th
 ## Credits
 
 * University of Utah Coding boot camp provided starter JavaScript code, HTML, and CSS.
-* https://utah.bootcampcontent.com/utah-coding-bootcamp/uofu-virt-bo-fsf-pt-04-2021-u-b 
 
 ## Website
 
